@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/walyson-henrique-oz%c3%b3rio-sobrinho-384b912a7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/walyson-henrique-oz%c3%b3rio-sobrinho-384b912a7/" height="30" width="40" /></a>
-<a href="https://instagram.com/@o_henrique_sobrinho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@o_henrique_sobrinho" height="30" width="40" /></a>
+<a href="https://instagram.com/dev.walyson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@o_henrique_sobrinho" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
