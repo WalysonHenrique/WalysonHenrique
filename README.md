@@ -10,6 +10,8 @@
 - 📫 Entre em contato **walyson.sobrinho@hotmail.com**
 
 - ⚡ Fun fact **As vezes fico muito empolgado com projetos**
+- 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
